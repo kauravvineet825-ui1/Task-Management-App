@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://task-management-app-pr8b.onrender.com/api";
 
 const loginTab = document.getElementById("loginTab");
 const registerTab = document.getElementById("registerTab");
